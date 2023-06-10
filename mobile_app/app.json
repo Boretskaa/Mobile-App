@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "mobile_app",
+    "slug": "app",
+    "extra": {
+      "eas": {
+        "projectId": "7d857aff-e4ec-4c30-974a-dafe8a609ece"
+      }
+    },
+    "owner": "boretskaa"
+  }
+}
